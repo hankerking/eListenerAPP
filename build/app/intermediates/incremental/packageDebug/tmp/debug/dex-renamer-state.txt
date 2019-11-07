@@ -1,4 +1,4 @@
-#Thu Nov 07 13:02:56 CST 2019
-base.0=E\:\\eListener\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Thu Nov 07 17:13:33 CST 2019
+base.0=E\:\\eListener new\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
