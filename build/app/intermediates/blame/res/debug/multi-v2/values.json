@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\eListener\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\eListener new\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\eListener\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\eListener new\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

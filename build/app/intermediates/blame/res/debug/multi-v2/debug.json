@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\eListener\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "E:\\eListener new\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "E:\\eListener\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\eListener new\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
